@@ -23,7 +23,7 @@ Finally, in MySQL Workbench, run the `initialize.sql` script (on the "admin" dat
 
 This app is the completed version of the assignment from last class.
 
-The basic setup, routes/controllers, SQL statements and authentication has been done for us. Our job is simply to deploy the application. 
+The basic setup, routes/controllers, SQL statements and authentication has been done for us. Our job is simply to deploy the application.
 
 _Keep in mind that your port (4001) may be different when running the application_
 
